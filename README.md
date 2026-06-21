@@ -19,7 +19,7 @@ Plataforma de aprendizaje interactiva hecha **100% con HTML, CSS y JavaScript pu
 
 ## 🎬 Demo
 
-> 🌐 **Demo en vivo:** _(añade aquí tu URL de GitHub Pages cuando lo publiques, ej. `https://tu-usuario.github.io/cuaderno-linux-mint/`)_
+> 🌐 **Demo en vivo:** _(añade aquí tu URL de GitHub Pages cuando lo publiques, ej. `https://benavidevlp.github.io/LinuxHubLearningCode/`)_
 
 <!-- ============================================================
      ESPACIO PARA TUS CAPTURAS Y VIDEOS DE PRUEBA
