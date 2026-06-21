@@ -130,19 +130,6 @@ El proyecto incluye un script que publica el sitio en una URL pública (usa **cl
 └── publicar-20min.sh       # Publica el sitio con cloudflared / localhost.run
 ```
 
----
-
-## 🌐 Publicar en GitHub Pages
-
-1. Sube el repositorio a GitHub.
-2. Ve a **Settings → Pages**.
-3. En **Source**, elige la rama `main` y la carpeta `/ (root)`.
-4. Guarda. En unos minutos tendrás una URL fija tipo `https://tu-usuario.github.io/tu-repo/`.
-
-> Al ser un sitio 100% estático, funciona en GitHub Pages sin configuración adicional.
-
----
-
 ## 🗺️ Roadmap (ideas futuras)
 
 - [ ] Convertirlo en **PWA** instalable y offline.
@@ -162,9 +149,6 @@ Todas las técnicas y herramientas de seguridad mostradas son con fines **educat
 ## 👤 Autor
 
 **BenaviDev** — _Desarrollo de software y contenido educativo._
-
-> _Añade aquí tus enlaces: GitHub, LinkedIn, portafolio, correo de contacto..._
-
 ---
 
 ## 📄 Licencia
